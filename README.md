@@ -27,4 +27,7 @@ Recommendations
 
 .The most watched movie is Bluebeard which is a fairy tale, Microsoft should ensure that the movie is accessible to all countries. 
 
+.The BOM file examination of movie graphs based on the second film  'Before We Go' to the tenth demonstrates that they are all on the same level of 
+audience viewership hence Microsoft Business should prioritize different movie making techniques for a healthy competition.
+
 .Microsoft should make more movies for all ages as everyone is a target market and the technological advancement has helped alot in reaching all audiences.
