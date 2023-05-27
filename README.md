@@ -1,19 +1,25 @@
 # Phase-1-Project
+
 Microsoft Movie Analysis
+
 Introduction
+
 The Movie industry has experienced a significant growth over the years.Technological advancement has had alot of contributions to this growth and has immersed a worldwide audience from all ages.
 
 Business Understanding
+
 Microsoft has to make more profit and good reviews in their platform.The datasets provided answers majority of the questions:
 which are the most popular movies?
 What are the movie ratings?
 What are the gross income?
 
 Data Understanding
+
 This was achieved by looking at the various datasets given.
 For example the most  popular film ratings by looking at the ratings datasets, we get to understand if their are positive and negative ratings
 
 Conclusion
+
 The data analysis provided us with a better hindsight for improving the company. The data also gave a better recommendations and understanding of the data.
 
 Recommendations
