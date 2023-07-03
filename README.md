@@ -1,5 +1,4 @@
 # Phase-1-Project
-![FB_IMG_1688369195560](https://github.com/Brenda-Mutai/Phase-1-Project/assets/133044683/583d1182-a952-45ad-9c30-e8338df3ddbd)
 
 Microsoft Movie Analysis
 
